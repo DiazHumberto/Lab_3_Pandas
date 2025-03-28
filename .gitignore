@@ -1,4 +1,5 @@
-# ignore titanic and air qulity csv files
+# ignore titanic and air qulity csv files + .ipynb
 
 air_quality_ucl.csv
 titanic.csv
+Pandas.ipynb
