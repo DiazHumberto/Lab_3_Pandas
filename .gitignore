@@ -1,0 +1,4 @@
+# ignore titanic and air qulity csv files
+
+air_quality_ucl.csv
+titanic.csv
